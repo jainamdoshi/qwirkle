@@ -1,0 +1,20 @@
+Welcome to Qwirkle
+------------------
+
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+5. Game Enhancement Config
+
+> Given input is not a number
+> Given input is not a number
+> Input must be between 1 and 5
+> Input must be between 1 and 5
+> Given input is not a number
+> Given input is not a number
+> Given input is not a number
+> Goodbye

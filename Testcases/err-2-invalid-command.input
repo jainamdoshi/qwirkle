@@ -1,0 +1,19 @@
+1
+JAM
+MAJ
+put 1 at 1
+2314
+oseifm
+place
+place k at k
+place R2 at 2
+place R2 at A99
+place R2 at A-1
+place 2 at A1
+place x at A1
+place R10 at A1
+save
+quit
+replace
+replace DF
+replace R66
